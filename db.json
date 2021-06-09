@@ -1,0 +1,28 @@
+{
+  "Produtos": [
+      {
+          "codigo": 1,
+          "descrição": "Tenis",
+          "qtde": "3",
+          "valorunit": "500",
+          "dataentrada": "14052021",
+          "imagemprod": "123"
+      },
+      {
+          "codigo": 2,
+          "descrição": "Calsa",
+          "qtde": "5",
+          "valorunit": "100",
+          "dataentrada": "14052021",
+          "imagemprod": "123"
+      },
+      {
+        "codigo": 3,
+        "descrição": "Meia",
+        "qtde": "10",
+        "valorunit": "30",
+        "dataentrada": "14052021",
+        "imagemprod": "123"
+    }
+  ]
+}
